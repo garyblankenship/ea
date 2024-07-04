@@ -1,6 +1,6 @@
 # EA - Your Personal AI Friend and Healer
 
-![EA Logo](images/ea-logo.png)
+![EA Logo](ea-logo.png)
 
 ## Overview
 **EA** is a private personal AI designed to provide companionship and assistance to individuals dealing with health issues, depression, and memory challenges. EA offers familiar conversation and reliable support, aiming to improve overall well-being and quality of life.
